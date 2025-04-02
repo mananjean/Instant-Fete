@@ -30,7 +30,9 @@ Ce site web a été développé par Enrick MANANJEAN en utilisant WordPress et p
 - Catégorisation des idées par type de festivité (anniversaires, mariages, fêtes de fin d’année, etc.).
 
 ## Installation et Accès
-Le site était hébergé en ligne et accessible directement via son URL. Pour le modifier localement :
+Le site était hébergé en ligne et accessible directement via son URL : [Instant Fête](https://dc42.digital-college1.in/)
+
+Pour le modifier localement :
 
 1. Clonez ce repository :
 ```
